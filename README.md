@@ -1,4 +1,4 @@
 # algorithms
-Implementation of classic algorithms like Bubble sort.
+Implementation of classic algorithms in Pascal.
 
-Just for fun and history.
+Just for the fun of it.
