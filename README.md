@@ -8,7 +8,7 @@ Just for the fun of it.
 ### [bubble sort](sorting/BubbleSort.pas)
 old, classic bubble sort with two nested for loops. as easy as it gets.
 
-### [shaker sort](sorting/Shaker.pas)
+### [shaker sort](sorting/ShakerSort.pas)
 a fancy version of bubble sort with two for loops shaking the array until no more can do.
 
 ### [selection sort](sorting/SelectionSort.pas)
